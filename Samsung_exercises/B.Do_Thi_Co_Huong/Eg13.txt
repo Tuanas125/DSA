@@ -1,0 +1,7 @@
+Một đồ thị có hướng V đỉnh có thể có tối đa 
+V^2 cạnh, bởi vì mỗi cặp đỉnh có thể có cạnh nối cả hai chiều, do đó có thể có tối đa 
+V cạnh đi ra từ mỗi đỉnh, tức là tổng số cạnh có thể là V×V=V^2
+
+Đồ thị không chứa cạnh song song khi mọi cặp cạnh đều khác nhau. Trong một đồ thị có hướng V đỉnh, có tối đa 
+V^2 cạnh có thể tồn tại. Tuy nhiên, để tránh cạnh song song, chúng ta chỉ có thể chọn tối đa 
+V^2 cạnh khác nhau.

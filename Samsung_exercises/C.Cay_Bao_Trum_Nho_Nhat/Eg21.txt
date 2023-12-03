@@ -1,0 +1,5 @@
++ Sort các cạnh trong S theo trọng số giảm dần
++ Thêm vào đồ thị gốc các cạnh trong tập S
++ Đánh dấu các đỉnh đã được thăm khi thêm vào đồ thị
++ Nếu tất cả các đỉnh đã được thăm thì dừng
++ Nếu không thăm hết các đỉnh, trả về false.

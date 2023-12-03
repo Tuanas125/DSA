@@ -1,0 +1,4 @@
+Để tính thành phần liên thông mạnh của một đồ thị có hướng:
+B1: Sử dụng thuật toán DFS từ mỗi đỉnh chưa được duyệt.
+B2: Ghi nhận các đỉnh không thể duyệt ngược ngược lại từ mỗi lần duyệt DFS.
+B3: Kết quả là tập hợp các thành phần liên thông mạnh.

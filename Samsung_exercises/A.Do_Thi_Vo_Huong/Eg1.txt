@@ -1,0 +1,4 @@
+1. Đồ thị được cho bởi tập cạnh đầu tiên có chu trình Euler, vì tất cả các đỉnh của nó đều có bậc chẵn. Tuy nhiên, đồ thị này không có chu trình Hamilton, vì nó không thỏa mãn điều kiện Ore(bậc(u) + bậc (v) < n)
+2. Đồ thị được cho bởi tập cạnh thứ hai không có chu trình Euler, vì có hai đỉnh có bậc lẻ là 0 và 6. Đồ thị này cũng không có chu trình Hamilton, vì nó không thỏa mãn điều kiện Ore(bậc(u) + bậc (v) < n)
+3. Đồ thị được cho bởi tập cạnh thứ ba có chu trình Euler, vì tất cả các đỉnh của nó đều có bậc chẵn. Đồ thị này cũng có chu trình Hamilton, vì nó thỏa mãn điều kiện Ore(bậc(u) + bậc(v) < n)
+4. Đồ thị được cho bởi tập cạnh thứ tư không có chu trình Euler, vì có hai đỉnh có bậc lẻ là 0 và 9. Đồ thị này cũng không có chu trình Hamilton, vì nó không thỏa mãn điều kiện Ore(bậc(u) + bậc(v) < n)

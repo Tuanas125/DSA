@@ -1,0 +1,6 @@
+Giả sử đồ thị không có điểm articulation. Ta chọn hai đỉnh bất kỳ trong đồ thị, gọi chúng là s và t. Vì đồ thị là liên thông, tồn tại ít nhất một đường đi nối s và t.
+Bây giờ, giả sử rằng đường đi này có một đỉnh trên đó được gọi là u mà khi loại bỏ nó (và các cạnh kề), đồ thị trở thành không liên thông.
+Nhưng theo giả định, không có điểm articulation trong đồ thị, nghĩa là khi loại bỏ đỉnh u và các cạnh kề của nó, đồ thị vẫn giữ tính liên thông. Điều này mâu thuẫn với giả định ban đầu rằng u là một điểm khi loại bỏ làm đồ thị không liên thông.
+Do đó, giả định rằng đường đi từ s đến t có một đỉnh u làm cho đồ thị không còn liên thông sau khi loại bỏ u là sai.
+Vậy, từ hai đỉnh bất kỳ s và t trong đồ thị, ta có thể xây dựng ít nhất hai đường đi không giao nhau giữa chúng. Điều này chứng tỏ mỗi cặp đỉnh trong đồ thị đều được nối bởi hai đường đi không giao nhau.
+Vậy ta có điều cần chứng minh.

@@ -1,0 +1,6 @@
+B1: Tạo một mảng 2 chiều distance với kích thước V x V, trong đó V là số lượng đỉnh của đồ thị. Ban đầu, gán mỗi phần tử của distance bằng giá trị vô cùng.
+Duyệt qua mỗi đỉnh u của đồ thị. Với mỗi đỉnh u, tính tổng trọng số của các cạnh từ u đến mỗi đỉnh khác v trên đồ thị (theo cả hai hướng, nếu có).
+Cập nhật distance[u][v] và distance[v][u] với tổng trọng số tính được.
+
+B2: Truy vấn
+Để trả về khoảng cách ngắn nhất giữa hai đỉnh u và v, trả về giá trị distance[u][v] từ mảng đã tính toán.

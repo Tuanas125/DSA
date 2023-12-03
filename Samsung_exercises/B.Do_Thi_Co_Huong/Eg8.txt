@@ -1,0 +1,1 @@
+BFS tạo ra trình tự dựa trên cấp độ, không phải thứ tự tô pô, vì nó không đảm bảo các đỉnh sẽ được xếp theo thứ tự tuyến tính từ đỉnh thấp đến cao. Thứ tự tô pô chỉ áp dụng cho đồ thị có hướng và không có chu trình, thường được tạo ra bằng DFS.

@@ -1,0 +1,4 @@
+B1: Dùng Kruskal hoặc Prim để tìm cây bao trùm nhỏ nhất. 
+B2: Đối với mỗi cạnh e trong MST, loại e khỏi cây và xem xét các cạnh còn lại.
+B3: Kiểm tra xem có thể thay thế cạnh e bằng một cạnh khác không thuộc MST nhưng nối hai thành phần liên thông tạo ra từ việc loại bỏ e mà không tăng trọng số cây bao trùm nhỏ nhất.
+B4: Nếu không tìm thấy cạnh thay thế, đánh dấu e là cạnh khó.
